@@ -1,6 +1,16 @@
+## 🚀 Install
+
+Install this Skill from the Bankr Skill Store.
+
+(Coming soon)
+
 # 🛡 Crypto Safety Checker
 
 ![Banner](assets/banner.PNG)
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Bankr Skill](https://img.shields.io/badge/Bankr-Skill-purple)
+![Web3 Security](https://img.shields.io/badge/Web3-Security-blue)
 
 A Bankr Skill for investigating Web3 URLs, claim pages, projects, and wallet safety using publicly available information.
 
